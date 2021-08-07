@@ -1,3 +1,3 @@
-# Sarah Kinneer's Portfolio
+# My Portfolio
 
-[Visit my Portfolio!](https://kinneers.github.io)
+[Visit my Portfolio!](https://nis192.github.io)
