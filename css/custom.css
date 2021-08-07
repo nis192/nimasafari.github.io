@@ -1,0 +1,65 @@
+/* Custom CSS */
+.purp-text {
+    color: rgb(125, 126, 192) !important;
+}
+
+.tabs .indicator {
+    background-color: rgb(125, 126, 192) !important;
+}
+
+.light-purp {
+    color: rgb(191, 168, 191) !important;
+}
+
+.light-purp-badge {
+    background-color: rgb(191, 168, 191) !important;
+}
+
+.dark-blue {
+    background-color: rgb(24, 27, 94) !important;
+}
+
+.dark-blue-text {
+    color: rgb(24, 27, 94) !important;
+}
+
+.btn,
+.btn-large {
+    background-color: rgb(125, 126, 192) !important;
+}
+
+.nav-wrapper {
+    background-color: rgb(125, 126, 192) !important;
+}
+
+.bigger {
+    size: 50px !important;
+}
+
+.activator {
+    height: 298px;
+}
+
+img {
+    border: dotted rgb(193, 195, 197) 1px;
+}
+
+.waves-block {
+    height: 160.28px;
+}
+
+.work-item {
+    height: 330px;
+}
+
+@media screen and (max-width: 400) {
+    div.card-content {
+        min-height: 167px !important;
+    }
+}
+
+@media screen and (min-width: 900) {
+    div.card-content{
+        min-height: 300px !important;
+    }
+}
